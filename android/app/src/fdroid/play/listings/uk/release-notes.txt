@@ -1,11 +1,9 @@
-• Покращення в роботі Android Auto
-• Дані карти OpenStreetMap станом на 2 лютого
-• Виправлення голосових підказок испанською та португальською
-• Виправлення падіння під час імпорту KML, KMZ, GPX файлів
-• Виправлення імпорту KMZ міток з WhatsApp
-• Помаранчевий колір для другорядних доріг
-• Іконка вбиральні для закладів з туалетом
-• Пошук за плюс-кодом відображає результати відносно до місцеположення та центру екрану
-• Багато покращень в стилях мапи та у пошуку
+• OpenStreetMap data as of February 28
+• Export all bookmarks as a single KMZ file
+• Added recycling and elevation to search result descriptions
+• Fixed several crashes
+• "Routing options enabled" is no longer displayed when using ruler
+• Included wheelchair accessibility information on place pages
+• Added recycling and elevation information to search result descriptions
 
-…більше на omaps.org/uk/news
+…read more details at omaps.org/news
